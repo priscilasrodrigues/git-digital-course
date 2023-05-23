@@ -2,4 +2,4 @@
 ## Salvando alterações no Git
 * comando git push
 * comando git pull
-* comando fit fetch
+* comando git fetch
