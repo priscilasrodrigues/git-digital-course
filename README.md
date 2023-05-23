@@ -1,5 +1,3 @@
 # Curso Digital: Git/Versionamento
-
 ## Salvando alterações no Git
-
-* uso do comando restore
+* comando git push
